@@ -1,7 +1,7 @@
 {
   "name": "ASI onboarding",
 
-  "image": "mcr.microsoft.com/devcontainers/miniconda:2-3",
+  "image": "mcr.microsoft.com/devcontainers/miniconda:0-3",
 
   "features": {
     "ghcr.io/devcontainers/features/github-cli:1": {}
